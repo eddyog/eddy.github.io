@@ -23,7 +23,7 @@ const references_3 = document.getElementById("references_3");
 
 
 // Title of The website 
-title_page.innerHTML = "Cam Davis";
+title_page.innerHTML = "Eddy Gonzalez";
 
 // Main title
 main_title.innerHTML = "Welcome To My Porfolio Online";
